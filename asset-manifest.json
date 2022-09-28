@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.c3181df5.css",
+    "main.js": "./static/js/main.9bfd4b38.js",
+    "static/js/787.87efd2f8.chunk.js": "./static/js/787.87efd2f8.chunk.js",
+    "static/media/sneha-photo.png": "./static/media/sneha-photo.19a01dee9d167758856f.png",
+    "index.html": "./index.html",
+    "main.c3181df5.css.map": "./static/css/main.c3181df5.css.map",
+    "main.9bfd4b38.js.map": "./static/js/main.9bfd4b38.js.map",
+    "787.87efd2f8.chunk.js.map": "./static/js/787.87efd2f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3181df5.css",
+    "static/js/main.9bfd4b38.js"
+  ]
+}
